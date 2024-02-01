@@ -1,0 +1,3 @@
+<!-- Hotfixes -->
+
+# Résolutions de bugs
